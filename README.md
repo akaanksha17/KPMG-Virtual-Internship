@@ -1,5 +1,5 @@
 # KPMG-Virtual-Internship
-## Data, Analytics & Modelling
+## Data Analytics & Modelling
 ### Virtual Internship
 - Task 1
   
